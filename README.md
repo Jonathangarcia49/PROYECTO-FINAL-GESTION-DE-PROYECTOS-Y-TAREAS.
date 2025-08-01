@@ -1,5 +1,7 @@
 # PROYECTO-FINAL-GESTION-DE-PROYECTOS-Y-TAREAS
+
 Ejercicio #1:
+
 Este es un sistema completo de gestión de proyectos y tareas desarrollado con el stack MERN (MongoDB, Express, React, Node.js).
 
 ## Características
@@ -154,3 +156,6 @@ npm start
 ## Contribución
 
 Este proyecto fue desarrollado como parte de un ejercicio académico siguiendo las especificaciones del stack MERN.
+
+👨‍💻 Autor Jonathan Joseph García García
+
