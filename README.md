@@ -1,4 +1,4 @@
-# Sistema de Gestión de Proyectos y Tareas - MERN Stack
+# PROYECTO-FINAL-GESTION-DE-PROYECTOS-Y-TAREAS
 
 Este es un sistema completo de gestión de proyectos y tareas desarrollado con el stack MERN (MongoDB, Express, React, Node.js).
 
